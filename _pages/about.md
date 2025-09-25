@@ -17,4 +17,4 @@ social: true  # includes social icons at the bottom of the page
 Qiaomei Zhuo is a Ph.D. candidate at Nanjing University, specializing in collective memory, interpersonal communication, and computational communication. She has gained professional experience in business analysis through internships and roles at companies such as ByteDance, NetEase, and BlueFocus. In her free time, she enjoys visiting exhibitions, hiking, traveling.
 Welcome to connect with her for academic discussions or collaboration opportunities!
 
-<img src="https://github.com/zhuoqiaomei/zhuoqiaomei.github.io/blob/master/assets/img/2025-09-24.png" align = "middle" width = "800px">
+<img src="https://github.com/zhuoqiaomei/zhuoqiaomei.github.io/blob/master/assets/img/924.png" align = "middle" width = "800px">
